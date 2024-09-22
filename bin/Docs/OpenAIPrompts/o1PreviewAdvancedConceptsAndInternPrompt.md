@@ -64,12 +64,6 @@ Produce Java code examples that are optimized, relevant to real-world internship
 
 ---
 
-**Example Starting Point:**
-
-*You may start by analyzing and improving an existing Singleton pattern implementation for database connections, ensuring proper resource management, thread safety, and alignment with SOLID principles. Then, modify the example to reflect a real-world scenario such as managing connections in a microservices environment, and add features like connection pooling or asynchronous operations using `CompletableFuture`.*
-
----
-
 **Remember:**
 
 - Be thorough in your explanations and justifications for code modifications.
